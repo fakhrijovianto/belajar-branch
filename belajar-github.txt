@@ -2,3 +2,5 @@ belajar github
 belajar branch
 belajar merge
 belajar hal baru
+belajar skill baru
+mengumpulkan tugas
